@@ -1,3 +1,4 @@
+https://github.com/cfmaniac/CF-Locator/blob/master/assets/CFLOC-2014.png
 # CF-Locator
 CF-Locator is a ZipCode Search Utility with a GoogleMap interface.
 
